@@ -93,6 +93,8 @@ textarea{
     }
      form{
       width:50%;
+      position: relative;
+      left: 10%;
     }
   }
 @media (max-width: 380px)
