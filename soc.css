@@ -101,4 +101,6 @@ textarea{
     .login{
       font-size: 50%;
     }
+    form{
+      width:50%;
   }
