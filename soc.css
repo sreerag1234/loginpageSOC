@@ -91,6 +91,9 @@ textarea{
     label {
       font-size: 75%;
     }
+     form{
+      width:50%;
+    }
   }
 @media (max-width: 380px)
   {
@@ -101,6 +104,4 @@ textarea{
     .login{
       font-size: 50%;
     }
-    form{
-      width:50%;
   }
